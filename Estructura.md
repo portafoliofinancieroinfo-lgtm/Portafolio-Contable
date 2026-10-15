@@ -8,10 +8,10 @@
  ┗ 📁 trabajo/                     → casos reales + herramienta propia por caso
      ┣ 📄 README.md
      ┣ 📄 requirements.txt         → dependencias compartidas (pandas, matplotlib, numpy)
-     ┣ 📁 electrovichada-2023/     → README + auditor_reteica.py + evidencia/
-     ┣ 📁 transervi-2022/          → README + conciliador.py + evidencia/
-     ┣ 📁 fervicom-2024/           → README + auditor_checklist.py + evidencia/
-     ┗ 📁 inlogistic-2025/         → README + organizador.py + evidencia/
+     ┣ 📁 electrovichada-2023/     → Electrovichada.md + auditor_reteica.py + evidencia/
+     ┣ 📁 transervi-2022/          → Transervi.md + conciliador.py + evidencia/
+     ┣ 📁 fervicom-2024/           → FERVICOM.md + auditor_checklist.py + evidencia/
+     ┗ 📁 inlogistic-2025/         → INLOGISTIC.md + organizador.py + evidencia/
 ```
 
 Cada carpeta dentro de `trabajo/` contiene el estudio de caso real (sin datos confidenciales), el script que
