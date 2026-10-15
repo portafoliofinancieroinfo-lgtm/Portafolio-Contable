@@ -65,4 +65,4 @@ Este proyecto demuestra mi capacidad para:
 
 Aquí fortalecí mi perfil como profesional orientado a la **calidad, la eficiencia y la mejora continua**.
 
-⬅️ [Volver a la hoja de vida](../README.md)
+⬅️ [Volver al inicio](../README.md)

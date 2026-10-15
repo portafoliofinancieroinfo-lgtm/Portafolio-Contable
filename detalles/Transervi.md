@@ -75,4 +75,4 @@ Este proyecto demuestra mi capacidad para:
 
 Aquí consolidé mi perfil como un profesional que no solo registra, sino que **analiza, depura y asegura calidad**.
 
-⬅️ [Volver a la hoja de vida](../README.md)
+⬅️ [Volver al inicio](../README.md)

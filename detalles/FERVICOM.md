@@ -65,4 +65,4 @@ Este proyecto demuestra mi capacidad para:
 Aquí consolidé mi perfil como un profesional orientado al **orden, la calidad y la transparencia de la información
 financiera**.
 
-⬅️ [Volver a la hoja de vida](../README.md)
+⬅️ [Volver al inicio](../README.md)

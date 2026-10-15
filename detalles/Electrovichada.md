@@ -74,4 +74,4 @@ Este proyecto demuestra mi capacidad para:
 
 Aquí consolidé mi perfil como un profesional orientado a la **exactitud, el control y la calidad de la información financiera**.
 
-⬅️ [Volver a la hoja de vida](../README.md)
+⬅️ [Volver al inicio](../README.md)
