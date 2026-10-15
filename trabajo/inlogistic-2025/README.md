@@ -70,9 +70,6 @@ Puestos del organigrama sin ningún documento: 2
 
 ![Documentos organizados por área](./evidencia/metricas.png)
 
-La cobertura de pruebas de este script (casos de prueba y bugs encontrados al probarlo como QA) está documentada en
-[proyectos-personales/qa/inlogistic-organizador.md](../../proyectos-personales/qa/inlogistic-organizador.md).
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -82,5 +79,4 @@ Este proyecto demuestra mi capacidad para:
 - Integrar control interno con gestión ISO
 - Aportar valor desde la estandarización
 
-Aquí fortalecí mi perfil como profesional orientado a la **calidad, la eficiencia y la mejora continua** — y este
-mismo rigor es el que aplico como QA al probar mis propias herramientas.
+Aquí fortalecí mi perfil como profesional orientado a la **calidad, la eficiencia y la mejora continua**.

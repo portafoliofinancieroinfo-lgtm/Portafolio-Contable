@@ -19,6 +19,6 @@ resultados.
 
 ## Hilo conductor
 
-En todos los casos el aporte central es el mismo que define mi perfil híbrido
-Contabilidad + QA: **detectar errores e inconsistencias, depurar información,
+En todos los casos el aporte central es el mismo que define mi perfil
+contable: **detectar errores e inconsistencias, depurar información,
 documentar procesos y asegurar la calidad y confiabilidad de los datos**.

@@ -1,19 +1,14 @@
 # 👤 Sobre mí — Brian David Calero Torres
 
-**Contador Público & Junior QA Tester** · Colombia
+**Contador Público** · Colombia
 📧 portafolio.financiero.info@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
 
 ## Quién soy
 
 Soy Contador Público con **más de 3 años de experiencia** en análisis
-contable, conciliaciones, impuestos, nómina y control financiero, y me formé
-como **QA Tester** para llevar al software la misma disciplina que aplico a la
-información financiera: verificar, depurar y asegurar calidad. Manejo Python,
-SQL, Jira y metodologías Agile; inglés B1.
-
-Mi punto fuerte es el perfil híbrido: entiendo las **reglas de negocio
-financieras** desde adentro y sé **probarlas como tester** — un cruce valioso
-para equipos que desarrollan software contable, financiero o ERP.
+contable, conciliaciones, impuestos, nómina y control financiero. Mi trabajo
+se centra en verificar, depurar y asegurar la calidad de la información
+financiera. Manejo Excel, Python y SQL para automatizar controles; inglés B1.
 
 ## Trayectoria profesional
 
@@ -28,7 +23,6 @@ Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 
 ## Formación
 
-- **Ingeniero de Calidad de Software** — TripleTen (2025–2026): pruebas manuales (web, cross-browser, móvil Android, API), diseño de pruebas, reporte de defectos en **Jira** y automatización con **Selenium WebDriver, Page Object Model y pytest**. Proyectos y evidencias en el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
 - **Contador Público** — Fundación de Educación Superior San José (2018–2022)
 - **Tecnólogo en Administración de Empresas** — Fundación de Educación Superior San José (2020–2021)
 
@@ -43,19 +37,16 @@ Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 
 ## Lo que me define
 
-- **Ojo para el error:** detecté una carga tributaria inflada 10× que nadie había cuestionado, con un ahorro de ~$300 millones para la entidad; el mismo instinto con el que encontré un Error 500 en una API durante el bootcamp.
+- **Ojo para el error:** detecté una carga tributaria inflada 10× que nadie había cuestionado, con un ahorro de ~$300 millones para la entidad.
 - **Método:** trabajo por bloques, con verificación cruzada, sin dar nada por válido sin soporte.
-- **Documentación:** procesos, hallazgos y evidencias siempre por escrito — de los POE bajo ISO 9001 a los bug reports en Jira.
+- **Documentación:** procesos, hallazgos y evidencias siempre por escrito — de los informes de auditoría a los POE bajo ISO 9001.
 - **Presión:** he entregado reconstrucciones contables completas con plazos fiscales encima.
 
 ## Qué busco
 
-Oportunidades en **QA (manual o automatización junior)**, **contabilidad con
-enfoque de control** o roles híbridos donde la calidad de la información sea
-el centro: testing de software financiero, auditoría de sistemas, control
-interno con componente tecnológico.
+Oportunidades en **contabilidad, impuestos, auditoría y control interno**,
+donde la calidad de la información financiera sea el centro.
 
-Me motiva aplicar mis habilidades en entornos donde la **transformación
-digital exige precisión, confiabilidad y mejora continua**. Me interesan los
-proyectos que integran contabilidad, tecnología y datos, así como el
-aprendizaje constante en QA, automatización y sistemas financieros.
+Me motivan los entornos que exigen **precisión, confiabilidad y mejora
+continua**, y los proyectos que integran contabilidad, datos y automatización
+de controles.

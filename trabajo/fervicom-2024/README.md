@@ -75,9 +75,6 @@ Riesgo por proceso:
 
 ![Riesgo por proceso de la auditoría interna](./evidencia/metricas.png)
 
-La cobertura de pruebas de este script (casos de prueba y bugs encontrados al probarlo como QA) está documentada en
-[proyectos-personales/qa/fervicom-auditor-checklist.md](../../proyectos-personales/qa/fervicom-auditor-checklist.md).
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -88,4 +85,4 @@ Este proyecto demuestra mi capacidad para:
 - Aportar valor desde el control y la prevención
 
 Aquí consolidé mi perfil como un profesional orientado al **orden, la calidad y la transparencia de la información
-financiera** — y este mismo rigor es el que aplico como QA al probar mis propias herramientas.
+financiera**.

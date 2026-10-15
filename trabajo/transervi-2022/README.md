@@ -84,9 +84,6 @@ Registros duplicados en el banco:    0
 
 ![Hallazgos de la conciliación banco vs. libro contable](./evidencia/metricas.png)
 
-La cobertura de pruebas de este script (casos de prueba y bugs encontrados al probarlo como QA) está documentada en
-[proyectos-personales/qa/transervi-conciliador.md](../../proyectos-personales/qa/transervi-conciliador.md).
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -95,5 +92,4 @@ Este proyecto demuestra mi capacidad para:
 - Asegurar calidad en procesos críticos
 - Aportar valor real en momentos clave para la empresa
 
-Aquí consolidé mi perfil como un profesional que no solo registra, sino que **analiza, depura y asegura calidad** —
-y este mismo rigor es el que aplico como QA al probar mis propias herramientas.
+Aquí consolidé mi perfil como un profesional que no solo registra, sino que **analiza, depura y asegura calidad**.

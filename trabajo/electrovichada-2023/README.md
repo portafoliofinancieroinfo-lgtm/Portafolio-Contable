@@ -78,9 +78,6 @@ Ahorro potencial detectado:              $485,636,094
 
 ![Comparación de la base gravable antes y después de la corrección](./evidencia/metricas.png)
 
-La cobertura de pruebas de este script (casos de prueba y bugs encontrados al probarlo como QA) está documentada en
-[proyectos-personales/qa/electrovichada-auditor-reteica.md](../../proyectos-personales/qa/electrovichada-auditor-reteica.md).
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -90,5 +87,4 @@ Este proyecto demuestra mi capacidad para:
 - Corregir interpretaciones legales en procesos tributarios
 - Aportar valor estratégico desde el rol contable
 
-Aquí consolidé mi perfil como un profesional orientado a la **exactitud, el control y la calidad de la información financiera** — y este mismo
-rigor es el que aplico como QA al probar mis propias herramientas.
+Aquí consolidé mi perfil como un profesional orientado a la **exactitud, el control y la calidad de la información financiera**.
