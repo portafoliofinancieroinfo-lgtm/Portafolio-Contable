@@ -55,7 +55,7 @@ flujo de caja diario, pagos a proveedores y relación con bancos.
 Como QA Tester hago pruebas manuales (web, móvil y API), diseño casos de prueba,
 reporto defectos en Jira y automatizo con Selenium WebDriver, Page Object Model y
 pytest. Esa parte de mi trabajo está en su propio repositorio:
-[Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
+[Portafolio-QA](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-QA).
 
 ## Contacto
 
