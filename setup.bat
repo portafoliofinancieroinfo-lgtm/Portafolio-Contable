@@ -3,7 +3,7 @@ REM ============================================================
 REM  Portafolio - Script de inicializacion
 REM  Crea el entorno virtual e instala las dependencias
 REM  (pandas, matplotlib, numpy) para ejecutar las herramientas
-REM  de la carpeta trabajo/.
+REM  de la carpeta detalles/.
 REM ============================================================
 cd /d "%~dp0"
 
@@ -36,13 +36,13 @@ if not exist venv (
 echo Instalando dependencias...
 call venv\Scripts\activate.bat
 python -m pip install --upgrade pip
-pip install -r trabajo\requirements.txt
+pip install -r detalles\requirements.txt
 
 echo.
 echo ============================================================
 echo  Listo. Para activar el entorno en una nueva terminal:
 echo      venv\Scripts\activate
 echo  Ejemplo para correr una herramienta:
-echo      python "trabajo\electrovichada-2023\auditor_reteica.py"
+echo      python "detalles\electrovichada-2023\auditor_reteica.py"
 echo ============================================================
 pause

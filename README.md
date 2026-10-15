@@ -1,43 +1,95 @@
-# Portafolio – Brian David Calero Torres
-**Contador Público**
+# Brian David Calero Torres
+**Contador Público** · Colombia
 
-Bienvenido a mi portafolio profesional: una vitrina de los proyectos que he
-desarrollado en mis entornos laborales, con enfoque en la **calidad de la
-información financiera**: conciliación, depuración, cumplimiento tributario y
-control interno.
+📧 portafolio.financiero.info@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
 
-## Sobre mí
+📄 **[Descargar hoja de vida en PDF](./HV_Brian_David_Calero_Torres.pdf)** · 📁 **[Detalle de cada proyecto](./detalles/README.md)**
 
-Soy Contador Público con más de 3 años de experiencia en contabilidad,
-auditoría y control financiero: ciclo contable completo, conciliaciones
-bancarias, nómina, flujo de caja e impuestos.
+## Perfil profesional
 
-Me especializo en identificar errores, riesgos e inconsistencias, proponer
-mejoras y garantizar el cumplimiento normativo, con criterio técnico,
-soporte documental y herramientas propias en Python para automatizar controles.
+Contador Público con **más de 3 años de experiencia** en contabilidad,
+auditoría y control financiero. Valido la información financiera con criterio
+técnico y analítico: concilio, depuro y detecto el riesgo contable detrás de
+cada inconsistencia. Manejo SQL y Python para análisis de datos y
+automatización de controles. Apasionado por la precisión, el control interno
+y la mejora continua.
 
-➡️ Perfil ampliado en [about.md](./about.md)
+## Habilidades
 
-## Contenido del portafolio
+- **Finanzas:** ciclo contable completo · conciliaciones bancarias · nómina · flujo de caja · impuestos · auditoría
+- **Gestión:** ISO 9001 · control interno · mejora continua · documentación de procesos
+- **Datos:** SQL · análisis de datos · integridad de la información · Python (automatización de procesos y scripts)
+- **Idiomas:** español (nativo) · inglés B1
 
-| Sección | Qué encontrarás |
-|---|---|
-| 💼 [trabajo/](./trabajo/README.md) | Estudios de caso de mi experiencia laboral —reconstrucción contable (Transervi), corrección tributaria de alto impacto (Electrovichada), auditorías internas (FERVICOM) y estandarización ISO 9001 (INLOGISTIC)— cada uno con una herramienta propia en Python y sus métricas |
+## Experiencia laboral
 
-## Herramientas y tecnologías
+### INLOGISTIC S.A.S. — Analista Contable
+*Mayo 2025 – Actualidad*
 
-**Contabilidad / Auditoría:**
-Ciclo contable completo · Conciliaciones bancarias · Nómina · Flujo de caja · Impuestos · Auditoría interna · Control interno · ISO 9001
+- Supervisión de registros contables y conciliaciones bancarias.
+- Coordinación con auditorías internas y control de activos fijos.
+- Elaboración y liquidación de nómina mensual; gestión de novedades de personal (ingresos, retiros, incapacidades, licencias).
+- Cálculo y pago de seguridad social y parafiscales.
+- Generación de certificados laborales y desprendibles de pago.
+- Manejo y control del flujo de caja diario; programación y ejecución de pagos a proveedores y obligaciones financieras.
+- Control de ingresos y egresos en efectivo y por medios electrónicos; relación directa con bancos: conciliaciones, transferencias y negociación de condiciones.
 
-**Datos:**
-SQL · Análisis de datos · Python (pandas, matplotlib)
+**Proyecto destacado — Estandarización ISO 9001 de Procesos Contables:** mapeé y
+documenté más de 8 procedimientos operativos alineados a ISO 9001, con roles,
+entradas, salidas, controles y KPIs por proceso. [Ver detalle](./detalles/inlogistic-2025/INLOGISTIC.md)
 
-## Contacto
+### FERVICOM S.A.S. — Contador Junior
+*Octubre 2024 – Abril 2025*
 
-📧 Correo: portafolio.financiero.info@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/davidcalero-qa-publicaccountant
+- Causación de facturas de compra y recibos de caja.
+- Depuración de cartera y saldos a favor; elaboración del costeo mensual.
+- Conciliación RADIAN; informe de ventas (mensual, semanal y diario).
+- Conciliación de impuestos y efectivos.
+- Nómina: recálculo y revisión de planilla; envío de desprendibles; solicitud de certificados de retención.
 
-> Estoy abierto a oportunidades en contabilidad, impuestos, auditoría y control
-> interno, donde la precisión y la confiabilidad de la información generen valor.
+**Proyecto destacado — Auditoría y Estandarización de Procesos Contables:** diseñé
+e implementé un esquema de auditoría interna para todos los ciclos contables
+(ingresos, egresos, cartera, nómina e impuestos) y acompañé la implementación de
+mejoras. [Ver detalle](./detalles/fervicom-2024/FERVICOM.md)
 
-⭐ Si este portafolio te resulta útil o interesante, no dudes en explorarlo y contactarme.
+### Electrovichada ESP S.A. — Depurador Contable
+*Febrero 2023 – Abril 2023*
+
+- Conciliaciones de caja (contabilidad y tesorería), cuentas por cobrar e ingresos por verificar.
+- Verificación de causación y presentación de facturas.
+- Diligenciamiento de formatos de nómina, proveedores, Retefuente, ReteICA, IVA, IPSE y otros impuestos.
+- Conciliación de pasivos, cuentas de orden y estados de cartera mes a mes.
+- Elaboración de balances generales, estados de resultados y formatos de exógena.
+- Formatos de industria y comercio anual para Puerto Carreño, Santa Rosalía, Cumaribo y Primavera.
+- Informe sobre estados financieros anuales (taxonomía); apoyo a la depuración contable 2021–2022.
+- Apoyo al saneamiento de pendientes (liquidación y pago de sanciones) ante la DIAN para los años 2019–2022.
+
+**Proyecto destacado — Auditoría Tributaria y Corrección de la Base de ReteICA:**
+detecté que la base del ReteICA se liquidaba mal frente a la Ley 56 de 1981; la
+corrección redujo la carga impositiva y evitó un sobrepago de **~$300 millones**.
+[Ver detalle](./detalles/electrovichada-2023/Electrovichada.md)
+
+### Transervi S.A.S — Auxiliar Contable
+*Enero 2022 – Enero 2023*
+
+- Apoyo al departamento financiero: monitorización de cuentas y supervisión de presupuestos.
+- Preparación de balances, atención de clientes y tareas administrativas.
+
+**Proyecto destacado — Reconstrucción Contable de 3.000+ Documentos:** clasifiqué,
+registré y concilié la vigencia 2021 completa (~$3.000 millones en ingresos y
+~$1.500 millones en gastos) en un mes, a tiempo para exógena y renta.
+[Ver detalle](./detalles/transervi-2022/Transervi.md)
+
+## Educación
+
+- **Contador Público** — Fundación de Educación Superior San José (2018–2022)
+- **Tecnólogo en Gestión Empresarial** — Fundación de Educación Superior San José (2020–2021)
+
+## Certificados y formación complementaria
+
+- Diplomado en Sistemas Integrados de Gestión SIG — Politécnico Superior de Colombia (2026)
+- Diplomado en Revisoría Fiscal Basada en NIA — Politécnico Superior de Colombia (2024)
+- Diplomado en Docencia y Didáctica Universitaria — Politécnico Superior de Colombia (2024)
+- Diplomado en Inteligencia de Negocios — Fundación de Educación Superior San José (2022)
+- Seminario en Marketing Digital y Negocios Digitales — Fundación de Educación Superior San José (2021)
+- Certificado de Inglés B1 — IBEST SAS (2021)

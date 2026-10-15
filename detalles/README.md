@@ -1,4 +1,6 @@
-# 💼 Trabajo — Proyectos en entornos laborales
+# 💼 Detalles — Proyectos en entornos laborales
+
+⬅️ [Volver a la hoja de vida](../README.md)
 
 Casos reales desarrollados durante mi trayectoria como profesional contable,
 presentados como estudios de caso: contexto, objetivo, acciones, metodología y
