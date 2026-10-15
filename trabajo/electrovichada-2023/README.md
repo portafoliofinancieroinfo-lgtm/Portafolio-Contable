@@ -4,7 +4,7 @@
 
 # Proyecto – Electrovichada ESP S.A.
 **Rol:** Depurador Contable
-**Periodo:** Enero 2023 – Abril 2023
+**Periodo:** Febrero 2023 – Abril 2023
 **Proyecto:** Saneamiento contable y corrección de base tributaria – Segundo semestre 2022
 
 ## Funciones del cargo

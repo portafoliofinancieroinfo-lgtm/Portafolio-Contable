@@ -33,13 +33,13 @@ Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 ## Formación
 
 - **Contador Público** — Fundación de Educación Superior San José (2018–2022)
-- **Tecnólogo en Administración de Empresas** — Fundación de Educación Superior San José (2020–2021)
+- **Tecnólogo en Gestión Empresarial** — Fundación de Educación Superior San José (2020–2021)
 
 ### Certificados y formación complementaria
 
 - Diplomado en Sistemas Integrados de Gestión SIG — Politécnico Superior de Colombia (2026)
-- Diplomado en Revisoría Fiscal Basada en NIA — Politécnico Superior de Colombia (2025)
-- Diplomado en Docencia y Didáctica Universitaria — Politécnico Superior de Colombia (2025)
+- Diplomado en Revisoría Fiscal Basada en NIA — Politécnico Superior de Colombia (2024)
+- Diplomado en Docencia y Didáctica Universitaria — Politécnico Superior de Colombia (2024)
 - Diplomado en Inteligencia de Negocios — Fundación de Educación Superior San José (2022)
 - Seminario en Marketing Digital y Negocios Digitales — Fundación de Educación Superior San José (2021)
 - Certificado de Inglés B1 — IBEST SAS (2021)
