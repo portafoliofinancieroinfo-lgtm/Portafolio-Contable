@@ -2,11 +2,11 @@
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
 > La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
 
-# Proyecto – FERVICOM S.A.S.
+# Auditoría y Estandarización de Procesos Contables
 
-**Rol:** Contador Junior
+**Empresa:** FERVICOM S.A.S.  
+**Rol:** Contador Junior  
 **Periodo:** Octubre 2024 – Abril 2025
-**Proyecto:** Auditoría y estandarización de procesos contables
 
 ## Funciones del cargo
 

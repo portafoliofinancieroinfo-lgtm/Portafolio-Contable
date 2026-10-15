@@ -2,10 +2,10 @@
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
 > La información presentada en este portafolio tiene fines demostrativos y describe mi experiencia, metodología y aportes sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
 
-# Proyecto – Transervi S.A.S
-**Rol:** Auxiliar Contable
+# Reconstrucción Contable de 3.000+ Documentos
+**Empresa:** Transervi S.A.S  
+**Rol:** Auxiliar Contable  
 **Periodo:** Enero 2022 – Enero 2023
-**Proyecto:** Reconstrucción y saneamiento de la contabilidad – Vigencia 2021
 
 ## Funciones del cargo
 

@@ -2,10 +2,10 @@
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
 > La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
 
-# Proyecto – Electrovichada ESP S.A.
-**Rol:** Depurador Contable
+# Auditoría Tributaria y Corrección de la Base de ReteICA
+**Empresa:** Electrovichada ESP S.A.  
+**Rol:** Depurador Contable  
 **Periodo:** Febrero 2023 – Abril 2023
-**Proyecto:** Saneamiento contable y corrección de base tributaria – Segundo semestre 2022
 
 ## Funciones del cargo
 

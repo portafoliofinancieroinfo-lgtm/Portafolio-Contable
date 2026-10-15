@@ -2,11 +2,11 @@
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
 > La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
 
-# Proyecto – INLOGISTIC S.A.S.
+# Estandarización ISO 9001 de Procesos Contables
 
-**Rol:** Analista Contable
+**Empresa:** INLOGISTIC S.A.S.  
+**Rol:** Analista Contable  
 **Periodo:** Mayo 2025 – Actualidad
-**Proyecto:** Estandarización de procesos contables bajo enfoque ISO 9001
 
 ## Funciones del cargo
 
