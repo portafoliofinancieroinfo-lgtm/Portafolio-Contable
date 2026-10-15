@@ -3,7 +3,7 @@
 
 📧 portafolio.financiero.info@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
 
-📄 **[Descargar hoja de vida en PDF](./HV_Brian_David_Calero_Torres.pdf)** · 📁 **[Detalle de cada proyecto](./detalles/README.md)**
+📄 **[Descargar hoja de vida en PDF](./HV_Brian_David_Calero_Torres.pdf)** · 📁 **[Detalle de cada proyecto](./detalles/)**
 
 ## Perfil profesional
 
@@ -36,7 +36,7 @@ y la mejora continua.
 
 **Proyecto destacado — Estandarización ISO 9001 de Procesos Contables:** mapeé y
 documenté más de 8 procedimientos operativos alineados a ISO 9001, con roles,
-entradas, salidas, controles y KPIs por proceso. [Ver detalle](./detalles/inlogistic-2025/INLOGISTIC.md)
+entradas, salidas, controles y KPIs por proceso. [Ver detalle](./detalles/INLOGISTIC.md)
 
 ### FERVICOM S.A.S. — Contador Junior
 *Octubre 2024 – Abril 2025*
@@ -50,7 +50,7 @@ entradas, salidas, controles y KPIs por proceso. [Ver detalle](./detalles/inlogi
 **Proyecto destacado — Auditoría y Estandarización de Procesos Contables:** diseñé
 e implementé un esquema de auditoría interna para todos los ciclos contables
 (ingresos, egresos, cartera, nómina e impuestos) y acompañé la implementación de
-mejoras. [Ver detalle](./detalles/fervicom-2024/FERVICOM.md)
+mejoras. [Ver detalle](./detalles/FERVICOM.md)
 
 ### Electrovichada ESP S.A. — Depurador Contable
 *Febrero 2023 – Abril 2023*
@@ -67,7 +67,7 @@ mejoras. [Ver detalle](./detalles/fervicom-2024/FERVICOM.md)
 **Proyecto destacado — Auditoría Tributaria y Corrección de la Base de ReteICA:**
 detecté que la base del ReteICA se liquidaba mal frente a la Ley 56 de 1981; la
 corrección redujo la carga impositiva y evitó un sobrepago de **~$300 millones**.
-[Ver detalle](./detalles/electrovichada-2023/Electrovichada.md)
+[Ver detalle](./detalles/Electrovichada.md)
 
 ### Transervi S.A.S — Auxiliar Contable
 *Enero 2022 – Enero 2023*
@@ -78,7 +78,7 @@ corrección redujo la carga impositiva y evitó un sobrepago de **~$300 millones
 **Proyecto destacado — Reconstrucción Contable de 3.000+ Documentos:** clasifiqué,
 registré y concilié la vigencia 2021 completa (~$3.000 millones en ingresos y
 ~$1.500 millones en gastos) en un mes, a tiempo para exógena y renta.
-[Ver detalle](./detalles/transervi-2022/Transervi.md)
+[Ver detalle](./detalles/Transervi.md)
 
 ## Educación
 

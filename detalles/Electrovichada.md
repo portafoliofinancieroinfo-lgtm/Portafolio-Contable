@@ -1,6 +1,6 @@
 > ⚠️ **Nota sobre evidencias:**
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
-> La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
+> La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa.
 
 # Auditoría Tributaria y Corrección de la Base de ReteICA
 **Empresa:** Electrovichada ESP S.A.  
@@ -63,32 +63,6 @@ Trabajé con enfoque analítico, revisando cuenta por cuenta y documento por doc
 ✔ Reducción de la carga impositiva a menos de la décima parte de lo que se venía liquidando (la base estaba inflada en más de un **1000%**): un ahorro de **~$300 millones** para la entidad
 ✔ Estados Financieros confiables para la toma de decisiones
 
-## Herramienta: `auditor_reteica.py`
-
-Para este portafolio automaticé, sobre un **dataset sintético**, el mismo tipo de auditoría que hice manualmente en este caso: detectar cuándo la
-base gravable del ReteICA está calculada sobre la producción total anual en vez del promedio mensual, además de otros defectos de calidad de datos
-típicos de un registro contable (duplicados, meses sin dato, montos atípicos).
-
-```bash
-pip install -r ../requirements.txt
-python auditor_reteica.py
-```
-
-**Salida de ejemplo:**
-
-```
-Registros duplicados encontrados: 2
-Meses con datos faltantes: 1
-Montos atípicos (outliers): 1
-
-Impuesto declarado (base incorrecta):  $529,784,830
-Impuesto correcto (base según Ley 56):  $44,148,736
-Inflación de la base gravable:          1100%
-Ahorro potencial detectado:              $485,636,094
-```
-
-![Comparación de la base gravable antes y después de la corrección](./evidencia/metricas.png)
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -99,3 +73,5 @@ Este proyecto demuestra mi capacidad para:
 - Aportar valor estratégico desde el rol contable
 
 Aquí consolidé mi perfil como un profesional orientado a la **exactitud, el control y la calidad de la información financiera**.
+
+⬅️ [Volver a la hoja de vida](../README.md)

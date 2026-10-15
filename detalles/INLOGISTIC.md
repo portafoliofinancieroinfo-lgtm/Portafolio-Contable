@@ -1,6 +1,6 @@
 > ⚠️ **Nota sobre evidencias:**
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
-> La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
+> La información presentada describe mi experiencia sin comprometer datos sensibles de la empresa.
 
 # Estandarización ISO 9001 de Procesos Contables
 
@@ -54,32 +54,6 @@ Trabajé con visión sistémica, integrando contabilidad, control interno y gest
 ✔ Mejora en la trazabilidad de la información
 ✔ Base inicial para certificación ISO 9001
 
-## Herramienta: `organizador.py`
-
-Para este portafolio automaticé, sobre un **organigrama y documentos sintéticos**, una tarea básica de control
-documental típica de un enfoque ISO 9001: clasificar cada procedimiento (POE) en la carpeta de su área/puesto según
-el organigrama, y detectar documentos huérfanos (responsable que no existe en el organigrama) o puestos sin ningún
-procedimiento documentado — el mismo tipo de brecha que reviso al estandarizar procesos.
-
-```bash
-pip install -r ../requirements.txt
-python organizador.py
-```
-
-**Salida de ejemplo:**
-
-```
-Documentos organizados: 6
-Documentos huérfanos (responsable no existe en el organigrama): 2
-  - POE-07_Tesorero.txt -> responsable detectado: 'Tesorero'
-  - POE-08_.txt -> responsable detectado: '(sin responsable)'
-Puestos del organigrama sin ningún documento: 2
-  - Gerente General
-  - Coordinador de Calidad
-```
-
-![Documentos organizados por área](./evidencia/metricas.png)
-
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -90,3 +64,5 @@ Este proyecto demuestra mi capacidad para:
 - Aportar valor desde la estandarización
 
 Aquí fortalecí mi perfil como profesional orientado a la **calidad, la eficiencia y la mejora continua**.
+
+⬅️ [Volver a la hoja de vida](../README.md)
