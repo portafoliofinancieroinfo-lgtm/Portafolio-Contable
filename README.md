@@ -8,8 +8,9 @@ control interno.
 
 ## Sobre mí
 
-Soy Contador Público con experiencia en análisis contable, nómina,
-conciliaciones, impuestos y control financiero.
+Soy Contador Público con más de 3 años de experiencia en contabilidad,
+auditoría y control financiero: ciclo contable completo, conciliaciones
+bancarias, nómina, flujo de caja e impuestos.
 
 Me especializo en identificar errores, riesgos e inconsistencias, proponer
 mejoras y garantizar el cumplimiento normativo, con criterio técnico,
@@ -26,10 +27,10 @@ soporte documental y herramientas propias en Python para automatizar controles.
 ## Herramientas y tecnologías
 
 **Contabilidad / Auditoría:**
-Conciliaciones · Nómina · Impuestos · NIIF · Control Interno · Auditoría interna · ISO 9001
+Ciclo contable completo · Conciliaciones bancarias · Nómina · Flujo de caja · Impuestos · Auditoría interna · Control interno · ISO 9001
 
-**Herramientas:**
-Excel · Python (pandas, matplotlib) · SQL
+**Datos:**
+SQL · Análisis de datos · Python (pandas, matplotlib)
 
 ## Contacto
 

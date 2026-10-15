@@ -5,10 +5,19 @@
 
 ## Quién soy
 
-Soy Contador Público con **más de 3 años de experiencia** en análisis
-contable, conciliaciones, impuestos, nómina y control financiero. Mi trabajo
-se centra en verificar, depurar y asegurar la calidad de la información
-financiera. Manejo Excel, Python y SQL para automatizar controles; inglés B1.
+Soy Contador Público con **más de 3 años de experiencia** en contabilidad,
+auditoría y control financiero. Valido la información financiera con criterio
+técnico y analítico: concilio, depuro y detecto el riesgo contable detrás de
+cada inconsistencia. Manejo SQL y Python para análisis de datos y
+automatización de controles. Apasionado por la precisión, el control interno
+y la mejora continua.
+
+## Habilidades
+
+- **Finanzas:** ciclo contable completo · conciliaciones bancarias · nómina · flujo de caja · impuestos · auditoría
+- **Gestión:** ISO 9001 · control interno · mejora continua · documentación de procesos
+- **Datos:** SQL · análisis de datos · integridad de la información · Python (automatización de procesos y scripts)
+- **Idiomas:** español (nativo) · inglés B1
 
 ## Trayectoria profesional
 
@@ -17,7 +26,7 @@ financiera. Manejo Excel, Python y SQL para automatizar controles; inglés B1.
 | 2022 | Transervi S.A.S | Auxiliar Contable | Reconstrucción completa de la contabilidad 2021 (3.000+ documentos) contra reloj, cumpliendo exógena y renta |
 | 2023 | Electrovichada ESP S.A. | Depurador Contable | Saneamiento contable y corrección de la base de ReteICA, inflada más de un 1000% por mala interpretación normativa |
 | 2024–2025 | FERVICOM S.A.S. | Contador Junior | Diseño y ejecución de auditorías internas para todos los procesos contables |
-| 2025–actual | INLOGISTIC S.A.S. | Analista de Contabilidad | Estandarización de procesos contables bajo enfoque ISO 9001 |
+| 2025–actual | INLOGISTIC S.A.S. | Analista Contable | Estandarización de procesos contables bajo enfoque ISO 9001 |
 
 Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 

@@ -7,6 +7,11 @@
 **Periodo:** Enero 2022 – Enero 2023
 **Proyecto:** Reconstrucción y saneamiento de la contabilidad – Vigencia 2021
 
+## Funciones del cargo
+
+- Apoyo al departamento financiero: monitorización de cuentas y supervisión de presupuestos.
+- Preparación de balances, atención de clientes y tareas administrativas.
+
 ## Contexto
 
 Cuando ingresé a Transervi S.A.S., la empresa no contaba con la contabilidad organizada del año 2021.

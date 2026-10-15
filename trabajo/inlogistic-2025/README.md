@@ -4,9 +4,19 @@
 
 # Proyecto – INLOGISTIC S.A.S.
 
-**Rol:** Analista de Contabilidad
+**Rol:** Analista Contable
 **Periodo:** Mayo 2025 – Actualidad
 **Proyecto:** Estandarización de procesos contables bajo enfoque ISO 9001
+
+## Funciones del cargo
+
+- Supervisión de registros contables y conciliaciones bancarias.
+- Coordinación con auditorías internas y control de activos fijos.
+- Elaboración y liquidación de nómina mensual; gestión de novedades de personal (ingresos, retiros, incapacidades, licencias).
+- Cálculo y pago de seguridad social y parafiscales.
+- Generación de certificados laborales y desprendibles de pago.
+- Manejo y control del flujo de caja diario; programación y ejecución de pagos a proveedores y obligaciones financieras.
+- Control de ingresos y egresos en efectivo y por medios electrónicos; relación directa con bancos: conciliaciones, transferencias y negociación de condiciones.
 
 ## Contexto
 

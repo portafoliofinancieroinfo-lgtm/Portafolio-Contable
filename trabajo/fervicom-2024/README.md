@@ -8,6 +8,14 @@
 **Periodo:** Octubre 2024 – Abril 2025
 **Proyecto:** Auditoría y estandarización de procesos contables
 
+## Funciones del cargo
+
+- Causación de facturas de compra y recibos de caja.
+- Depuración de cartera y saldos a favor; elaboración del costeo mensual.
+- Conciliación RADIAN; informe de ventas (mensual, semanal y diario).
+- Conciliación de impuestos y efectivos.
+- Nómina: recálculo y revisión de planilla; envío de desprendibles; solicitud de certificados de retención.
+
 ## Contexto
 
 Al ingresar a FERVICOM S.A.S., la empresa no contaba con auditorías formales sobre sus procesos contables y financieros.

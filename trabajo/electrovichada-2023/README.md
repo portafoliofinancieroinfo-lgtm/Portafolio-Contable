@@ -7,6 +7,17 @@
 **Periodo:** Enero 2023 – Abril 2023
 **Proyecto:** Saneamiento contable y corrección de base tributaria – Segundo semestre 2022
 
+## Funciones del cargo
+
+- Conciliaciones de caja (contabilidad y tesorería), cuentas por cobrar e ingresos por verificar.
+- Verificación de causación y presentación de facturas.
+- Diligenciamiento de formatos de nómina, proveedores, Retefuente, ReteICA, IVA, IPSE y otros impuestos.
+- Conciliación de pasivos, cuentas de orden y estados de cartera mes a mes.
+- Elaboración de balances generales, estados de resultados y formatos de exógena.
+- Formatos de industria y comercio anual para Puerto Carreño, Santa Rosalía, Cumaribo y Primavera.
+- Informe sobre estados financieros anuales (taxonomía); apoyo a la depuración contable 2021–2022.
+- Apoyo al saneamiento de pendientes (liquidación y pago de sanciones) ante la DIAN para los años 2019–2022.
+
 ## Contexto
 
 Al ingresar a Electrovichada ESP S.A., la entidad presentaba inconsistencias significativas en la información contable del segundo semestre de 2022.
@@ -27,7 +38,7 @@ que los saldos reflejaran la realidad financiera de la entidad y que la carga tr
 
 De manera técnica y estructurada:
 
-- Realicé conciliaciones complejas de caja, cuentas por cobrar, pasivos, inventarios y cuentas recíprocas.
+- Realicé conciliaciones en más de 8 cuentas: caja, cuentas por cobrar, pasivos, inventarios y cuentas recíprocas.
 - Depuré saldos inconsistentes y registros sin soporte.
 - Validé la correcta causación de ingresos, costos y gastos.
 - Analicé la base normativa del impuesto ReteICA según la Ley 56 de 1981.
