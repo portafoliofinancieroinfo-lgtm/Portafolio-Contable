@@ -1,15 +1,11 @@
 # Brian David Calero Torres
-**Contador Público & QA Tester** · Colombia
+**Contador Público** · Colombia
 
 Hola, soy Contador Público con más de 3 años de experiencia en empresas de
-distintos sectores, entre ellos energía, comercio y logística, y QA Tester
-formado en TripleTen. Mi trabajo es dejar la información financiera **ordenada,
-conciliada y confiable**, y cumplir a tiempo con las obligaciones tributarias.
-
-Mi perfil es híbrido: el QA lo ejerzo por su cuenta, probando software, y
-también lo llevo a la contabilidad, donde reviso la información como si fuera
-un sistema que hay que probar. En este repositorio presento los servicios que
-puedo ofrecer como contador y los casos reales que los respaldan.
+distintos sectores, entre ellos energía, comercio y logística. Mi trabajo es
+dejar la información financiera **ordenada, conciliada y confiable**, y cumplir
+a tiempo con las obligaciones tributarias. En este repositorio presento los
+servicios que puedo ofrecer y los casos reales que los respaldan.
 
 ## Servicios que ofrezco
 
@@ -43,19 +39,12 @@ Liquidación de nómina y novedades, seguridad social y parafiscales; control de
 flujo de caja diario, pagos a proveedores y relación con bancos.
 *Respaldo:* lo hago hoy como Analista Contable. → [INLOGISTIC](./detalles/INLOGISTIC.md)
 
-## Cómo trabajo: QA aplicado a la contabilidad
+## Cómo trabajo
 
-- **Casos de prueba sobre los saldos:** cada cuenta se valida contra su soporte y se cruza con otra fuente antes de darla por buena.
-- **Hallazgos documentados como defectos:** qué falla, dónde, su impacto, la causa y la corrección, igual que un reporte de bug.
-- **Pruebas a la norma, no solo a las cifras:** así encontré la base de ReteICA mal liquidada en Electrovichada.
-- **Automatización con SQL y Python:** cruces y validaciones repetitivas que no deben depender de revisar a mano.
-
-## QA por su cuenta
-
-Como QA Tester hago pruebas manuales (web, móvil y API), diseño casos de prueba,
-reporto defectos en Jira y automatizo con Selenium WebDriver, Page Object Model y
-pytest. Esa parte de mi trabajo está en su propio repositorio:
-[Portafolio-QA](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-QA).
+- **Con soporte:** nada se da por válido sin documento que lo respalde.
+- **Por bloques y con verificación cruzada:** cada saldo se concilia contra otra fuente antes de avanzar.
+- **A la norma, no solo a las cifras:** así encontré la base de ReteICA mal liquidada en Electrovichada.
+- **Por escrito:** hallazgos, ajustes y procedimientos quedan documentados.
 
 ## Contacto
 
